@@ -37,7 +37,7 @@ Node.js · Express.js · PostgreSQL · MySQL · MongoDB · Firebase · Supabase
 
 **Development Tools & Platforms**
 
-Git · GitHub · VS Code · Vite · Docker · Linux · Render · Figma
+Git · GitHub · VS Code · netbeans · Vite · Docker · Linux · Render · Figma
 
 ---
 
