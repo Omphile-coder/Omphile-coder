@@ -16,7 +16,7 @@ I enjoy solving problems, exploring new technologies, and continuously improving
 - **Currently Learning:** React Native
 - **Interests:** Full-Stack Development, Mobile Applications, UI/UX Design
 - **Open To:** Collaborations on web and mobile applications
-- **Portfolio:** [omphile-builds.vercel.app]([[https://omphile-builds.vercel.app/](https://www.omphilebuild.tech/)](https://www.omphilebuild.tech/))
+- **Portfolio:** [https://www.omphilebuild.tech/]([(https://www.omphilebuild.tech/)](https://www.omphilebuild.tech/))
 - **Email:** [lucasomphile23@gmail.com](mailto:lucasomphile23@gmail.com)
 
 ---
