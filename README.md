@@ -74,7 +74,7 @@ I enjoy solving problems, exploring new technologies, and continuously improving
 
 I'm always interested in collaborating with developers, designers, and people working on interesting ideas.
 
-**Portfolio:** https://omphile-builds.vercel.app/
+**Portfolio:** [https://www.omphilebuild.tech/](https://www.omphilebuild.tech/)
 
 **Email:** lucasomphile23@gmail.com
 
